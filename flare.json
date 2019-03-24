@@ -42,6 +42,69 @@
      ]
     }
   ]
+  },
+  {
+   "name": "Web Application 3",
+   "children": [
+    {
+     "name": "input",
+     "children": [
+      {"name": "entity", "value": 9},
+      {"name": "attribute", "value": 32},
+      {"name": "relation", "value": 8},
+      {"name": "XML lines", "value": 71}
+     ]
+    },
+    {
+     "name": "output",
+     "children": [
+      {"name": "PHP files", "value": 94},
+      {"name": "Line Code", "value": 9791}
+     ]
+    }
+  ]
+  },
+  {
+   "name": "Web Application 4",
+   "children": [
+    {
+     "name": "input",
+     "children": [
+      {"name": "entity", "value": 6},
+      {"name": "attribute", "value": 23},
+      {"name": "relation", "value": 5},
+      {"name": "XML lines", "value": 57}
+     ]
+    },
+    {
+     "name": "output",
+     "children": [
+      {"name": "PHP files", "value": 98},
+      {"name": "Line Code", "value": 9261}
+     ]
+    }
+  ]
+  },
+  {
+   "name": "Web Application 5",
+   "children": [
+    {
+     "name": "input",
+     "children": [
+      {"name": "entity", "value": 6},
+      {"name": "attribute", "value": 20},
+      {"name": "relation", "value": 5},
+      {"name": "XML lines", "value": 49}
+     ]
+    },
+    {
+     "name": "output",
+     "children": [
+      {"name": "PHP files", "value": 82},
+      {"name": "Line Code", "value": 8557}
+     ]
+    }
+   ]
   }
  ]
 }
