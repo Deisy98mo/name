@@ -8,8 +8,6 @@
      "name": "input",
      "children": [
       {"name": "E", "value": 16},
-      {"name": "A", "value": 54},
-      {"name": "R", "value": 18},
       {"name": "XML", "value": 144}
      ]
     },
@@ -17,7 +15,7 @@
      "name": "output",
      "children": [
       {"name": "PHP", "value": 145},
-      {"name": "Code Lines", "value": 1603}
+      {"name": "Code Lines", "value": 16035}
      ]
     }
    ]
@@ -29,8 +27,6 @@
      "name": "input",
      "children": [
       {"name": "E", "value": 15},
-      {"name": "A", "value": 35},
-      {"name": "R", "value": 18},
       {"name": "XML", "value": 117}
      ]
     },
@@ -50,16 +46,14 @@
      "name": "input",
      "children": [
       {"name": "E", "value": 9},
-      {"name": "A", "value": 32},
-      {"name": "R", "value": 8},
       {"name": "XML", "value": 71}
      ]
     },
     {
      "name": "output",
      "children": [
-      {"name": "PHP files", "value": 94},
-      {"name": "Code Lines", "value": 979}
+      {"name": "PHP", "value": 94},
+      {"name": "Code Lines", "value": 9791}
      ]
     }
   ]
@@ -71,8 +65,6 @@
      "name": "input",
      "children": [
       {"name": "E ", "value": 6},
-      {"name": "A", "value": 23},
-      {"name": "R", "value": 5},
       {"name": "XML ", "value": 57}
      ]
     },
@@ -80,7 +72,7 @@
      "name": "output",
      "children": [
       {"name": "PHP", "value": 98},
-      {"name": "Code Lines", "value": 925}
+      {"name": "Code Lines", "value": 9261
      ]
     }
   ]
@@ -92,8 +84,6 @@
      "name": "input",
      "children": [
       {"name": "E", "value": 6},
-      {"name": "A", "value": 20},
-      {"name": "R", "value": 5},
       {"name": "XML", "value": 49}
      ]
     },
@@ -101,7 +91,7 @@
      "name": "output",
      "children": [
       {"name": "PHP", "value": 82},
-      {"name": "Code Lines", "value": 855}
+      {"name": "Code Lines", "value": 8557
      ]
     }
    ]
