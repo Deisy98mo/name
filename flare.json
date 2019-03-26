@@ -14,8 +14,8 @@
      {
      "name": "output",
       "children": [
-      {"name": "PHP", "value": 145,
-       "name": "Code Lines", "value": 16035}
+      {"name": "Code Lines", "value": 145},
+       {"children": [{ "name": "Code Lines", "value": 16035}]
      ]
     }
    ]
