@@ -6,16 +6,15 @@
    "children": [
     {
      "name": "input",
-     "children": [
+      "children": [
       {"name": "E", "value": 16},
       {"name": "XML", "value": 145}
      ]
     },
     {
-     "name": "output",
+     "name": "Code Lines","value":16035,
      "children": [
-      {"name": "PHP", "value": 145},
-      {"name": "Code Lines", "value": 16035}
+      {"name": "PHP", "value": 145}
      ]
     }
    ]
