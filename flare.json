@@ -72,7 +72,7 @@
      "name": "output",
      "children": [
       {"name": "PHP", "value": 98},
-      {"name": "Code Lines", "value": 9261
+      {"name": "Code Lines", "value": 9261}
      ]
     }
   ]
@@ -91,7 +91,7 @@
      "name": "output",
      "children": [
       {"name": "PHP", "value": 82},
-      {"name": "Code Lines", "value": 8557
+      {"name": "Code Lines", "value": 8557}
      ]
     }
    ]
